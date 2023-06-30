@@ -7,8 +7,4 @@ scalability and code- reusability in mind, which means that the same project can
 by changing few variables to get desired results. Furthermore, there’s scope of adding more 
 functionality without disturbing any of the existing one. This is made possible by using 
 Object Oriented Programming, a Modular for designing web service, and following large 
-parts of MVC model. This allows us to extend the project to mobile applications and other environments.
-
-Video Demo : 
-
-https://www.projectworlds.in/online-attendance
+parts of MVC model. 
