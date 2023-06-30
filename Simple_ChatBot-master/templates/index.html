@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cloud Based Student Information Chatbot</title>
+</head>
+<body>
+    <h1>AWS Cloud Based Student Information Chatbot</h1>
+    <h2> Hello, I am DMI Bot </h2>
+    <form action="/get_student_info" method="post">
+        <label for="name">Enter student name:</label>
+        <input type="text" id="name" name="name">
+        <input type="submit" value="Submit">
+    </form>
+    {% if student_info %}
+    <div>
+        <h2>Student Information:</h2>
+        <p>{{ student_info }}</p>
+    </div>
+    {% endif %}
+</body>
+</html>
+
