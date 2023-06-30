@@ -1,3 +1,9 @@
+# Task 2: Design and Deploy cloud-based attendance system on any cloud platform
+
+---
+Task access link http://ec2-3-110-84-74.ap-south-1.compute.amazonaws.com/Attendance-System-master/
+---
+
 Attendance-System
 =================
 
@@ -8,3 +14,5 @@ by changing few variables to get desired results. Furthermore, there’s scope o
 functionality without disturbing any of the existing one. This is made possible by using 
 Object Oriented Programming, a Modular for designing web service, and following large 
 parts of MVC model. 
+
+# Reference: Task2.docx word file is attached for performing various steps.
