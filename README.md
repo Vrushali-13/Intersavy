@@ -2,9 +2,7 @@
 
 The web applications are developed on Amazon EC2 Instance for all cloud computing tasks and can be accessed through the public DNS ipv4 link below:
 
-# http://ec2-3-110-84-74.ap-south-1.compute.amazonaws.com/
-
-![image](https://github.com/nadeem9923/InternSavy/assets/91015648/539bf481-f4d2-4e09-b3c7-1b504d9319d5)
+# http://ec2-13-126-209-109.ap-south-1.compute.amazonaws.com/
 
 ---
 # Technology used:
