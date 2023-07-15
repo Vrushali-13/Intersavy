@@ -1,7 +1,7 @@
 # Task 3: Design and Deploy cloud based student information chatbot on any cloud platform
 
 ---
-Task access link: http://ec2-3-110-84-74.ap-south-1.compute.amazonaws.com:8080/ 
+Task access link: http://ec2-13-126-209-109.ap-south-1.compute.amazonaws.com:8080/ 
 ---
 
 ---
