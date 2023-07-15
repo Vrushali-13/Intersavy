@@ -1,6 +1,6 @@
 # Task 1: Develop and Deploy any simple web application on cloud platform
 
-Task Access link:  http://ec2-3-110-84-74.ap-south-1.compute.amazonaws.com/laundry-master/index.php 
+Task Access link:  http://ec2-3-110-84-74.ap-south-1.compute.amazonaws.com/laundry-master/index.php
 
 # Login Details:
     Username: admin
